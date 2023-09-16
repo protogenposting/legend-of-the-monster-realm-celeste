@@ -1,2 +1,2 @@
-# legend of the monster realm celeste
- e
+# e
+Replace with your mod's readme!

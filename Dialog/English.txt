@@ -23,7 +23,7 @@ hot_man_embrace_the_jank_2_yee=The lab entrance
 
 hot_man_embrace_the_jank_3_lab=The portal
 
-hot_man_embrace_the_jank_4_ballerin=ok who let timmy into lonn?
+hot_man_embrace_the_jank_4_finale=Finale.
 
 hot_man_embrace_the_jank_5_kevin=it's kevin time
 
