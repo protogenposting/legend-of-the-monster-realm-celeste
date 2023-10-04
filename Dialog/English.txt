@@ -25,7 +25,7 @@ hot_man_embrace_the_jank_3_lab=The portal
 
 hot_man_embrace_the_jank_4_finale=Finale.
 
-hot_man_embrace_the_jank_5_kevin=it's kevin time
+hot_man_embrace_the_jank_5_byebye=Bye Bye There!
 
 hot_man_embrace_the_jank_6_get=getting over it
 
