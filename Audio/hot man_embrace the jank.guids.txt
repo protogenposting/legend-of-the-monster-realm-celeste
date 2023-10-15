@@ -818,6 +818,7 @@
 {f4b84f97-d1bd-4b3b-81de-235cbe53ac2d} event:/hot man_embrace the jank_music3
 {820c6ed5-e159-4ccf-acb8-49036a598933} event:/hot man_embrace the jank_music4
 {fdd3cf61-b2ec-4e8b-9fb1-0aa8c22499a4} event:/hot man_embrace the jank_music5
+{1096c6bd-1bd8-4364-84d3-c370b6a0c0e7} event:/hot man_embrace the jank_music6
 {c7aad72f-9796-42d3-980b-d093fd765716} bus:/
 {aac396d1-a63f-418a-810a-5d5a59fb2c43} bus:/gameplay_sfx
 {2677ced7-94e4-44e2-9f5a-74aaeda5ab63} bus:/gameplay_sfx/ambience
