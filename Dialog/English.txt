@@ -36,6 +36,7 @@ hot_man_embrace_the_jank_8_funny_core=timmy got better
 hot_man_embrace_the_jank_9_funny_core_equivelant=funny core equivelant
 
 poem_hot_man_embrace_the_jank_1_prologue_A=prologue heart moment
+poem_hot_man_embrace_the_jank_1_prologue_B=Queen of ultras
 poem_hot_man_embrace_the_jank_2_yee_A=Bottom floor
 poem_hot_man_embrace_the_jank_3_lab_A=Ice Queen
 poem_hot_man_embrace_the_jank_4_ballerin_A=timmy why
