@@ -1,4 +1,5 @@
 using Celeste.Mod.Entities;
+using Monocle;
 using Microsoft.Xna.Framework;
 
 namespace Celeste.Mod.legendofthemonsterrealm.Objects.Entities {
@@ -6,6 +7,7 @@ namespace Celeste.Mod.legendofthemonsterrealm.Objects.Entities {
     public class SampleSolid : Solid {
         public SampleSolid(EntityData data, Vector2 offset)
             : base(data.Position + offset, data.Width, data.Height, true) {
+            Image myImage;
             myImage = new Image(GFX.Game["objects/legend-of-the-monster-realm-celeste/sampleEntity/idle00"]);
             Add(myImage);
         }
