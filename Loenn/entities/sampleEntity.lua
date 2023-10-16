@@ -1,5 +1,5 @@
 local SampleSolid = {
-    name = "legend-of-the-monster-realm-celeste/SampleSolid",
+    name = "legendofthemonsterrealm/SampleSolid",
     depth = -8500,
     texture = "objects/legend-of-the-monster-realm-celeste/sampleEntity/idle00",
     placements = {
