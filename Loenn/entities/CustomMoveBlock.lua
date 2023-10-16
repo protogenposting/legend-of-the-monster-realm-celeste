@@ -8,7 +8,7 @@ local moveBlockDirections = {
     "Up", "Down", "Left", "Right"
 }
 
-moveBlock.name = "moveBlock"
+moveBlock.name = "legendofthemonsterrealm/CustomMoveBlock"
 moveBlock.depth = 8995
 moveBlock.minimumSize = {16, 16}
 moveBlock.fieldInformation = {
