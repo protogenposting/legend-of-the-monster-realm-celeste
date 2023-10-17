@@ -14,6 +14,8 @@
       Version: 0.28.1
     - Name: FrostHelper
       Version: 1.45.4
+    - Name: GravityHelper
+      Version: 1.1.46
     - Name: MaxHelpingHand
       Version: 1.28.2
     - Name: NerdHelper
