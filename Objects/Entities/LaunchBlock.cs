@@ -9,7 +9,6 @@ namespace Celeste.Mod.legendofthemonsterrealm.Objects.Entities
     public class LaunchBlock : Solid
     {
         private readonly DynamicData BaseData;
-        Player player;
         public LaunchBlock(EntityData data, Vector2 offset) : base(data.Position + offset, data.Width,data.Height,false)
         {
             BaseData = DynamicData.For(this);
@@ -17,7 +16,7 @@ namespace Celeste.Mod.legendofthemonsterrealm.Objects.Entities
         }
         public float sign(float inty)
         {
-            if(inty>0)
+            if (inty > 0)
             {
                 inty = 1;
             }
@@ -25,25 +24,19 @@ namespace Celeste.Mod.legendofthemonsterrealm.Objects.Entities
             {
                 inty = -1;
             }
-            if (inty == 0)
-            {
-                inty = 0;
-            }
             return inty;
         }
         public override void Update()
         {
-            player = GetPlayerOnTop();
-            if(player!=null && player.CanDash)
+            Player player = GetPlayerOnTop();
+            if(player!=null)
             {
-                player.Speed.X += sign(player.Speed.X);
-                //player.Position.Y -= 1;
+                player.Speed.X += player.Speed.X/4;
             }
-            player = GetPlayerClimbing();
-            if (player != null && player.CanDash)
+            Player player2 = GetPlayerClimbing();
+            if (player2 != null)
             {
-                player.Speed.Y += sign(player.Speed.Y);
-                //player.Position.Y -= 1;
+                player2.Speed.Y += player2.Speed.Y/2;
             }
             base.Update();
         }
