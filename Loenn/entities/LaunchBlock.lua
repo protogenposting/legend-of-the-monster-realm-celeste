@@ -9,7 +9,7 @@ LaunchBlock.placements = {
     name = "legendofthemonsterrealm/LaunchBlock",
     data = {
         width = 8,
-		height = 8
+		height = 8,
     }
 }
 
